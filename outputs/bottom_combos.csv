@@ -1,0 +1,26 @@
+host,manager,server_team,dow,event_day,rain,dishwasher_down,low_inventory,meal_flag,predicted_sales,score_fair
+Alice,John,"('Ella', 'Ethan', 'James', 'Liam', 'Olivia', 'Sophia')",6,1,1,0,0,1,3681.5,3681.5
+Alice,John,"('Ella', 'Ethan', 'James', 'Liam', 'Mason', 'Sophia')",6,1,1,0,0,1,3676.1,3676.1
+Alice,John,"('Ethan', 'Isabella', 'Liam', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3674.8,3674.8
+Alice,John,"('James', 'Liam', 'Lucas', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3674.8,3674.8
+Alice,John,"('Ethan', 'Liam', 'Lucas', 'Mason', 'Noah', 'Olivia')",6,1,1,0,0,1,3672.0,3672.0
+Alice,John,"('Ella', 'Liam', 'Lucas', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3672.0,3672.0
+Alice,John,"('Ella', 'James', 'Liam', 'Mason', 'Noah', 'Olivia')",6,1,1,0,0,1,3666.1,3666.1
+Alice,John,"('James', 'Liam', 'Mason', 'Mia', 'Olivia', 'Sophia')",6,1,1,0,0,1,3664.0,3664.0
+Alice,John,"('Ella', 'Liam', 'Mason', 'Mia', 'Olivia', 'Sophia')",6,1,1,0,0,1,3661.2,3661.2
+Alice,John,"('Ethan', 'Liam', 'Mason', 'Mia', 'Noah', 'Olivia')",6,1,1,0,0,1,3659.4,3659.4
+Alice,John,"('Ethan', 'James', 'Liam', 'Lucas', 'Mason', 'Olivia')",6,1,1,0,0,1,3647.0,3647.0
+Alice,John,"('James', 'Liam', 'Mason', 'Noah', 'Olivia', 'Sophia')",6,1,1,0,0,1,3644.7,3644.7
+Alice,John,"('Ella', 'Ethan', 'Liam', 'Lucas', 'Mason', 'Olivia')",6,1,1,0,0,1,3644.2,3644.2
+Alice,John,"('Ella', 'Liam', 'Mason', 'Noah', 'Olivia', 'Sophia')",6,1,1,0,0,1,3641.9,3641.9
+Alice,John,"('Ethan', 'James', 'Liam', 'Mason', 'Mia', 'Olivia')",6,1,1,0,0,1,3634.4,3634.4
+Alice,John,"('Ella', 'Ethan', 'Liam', 'Mason', 'Mia', 'Olivia')",6,1,1,0,0,1,3631.6,3631.6
+Alice,John,"('Ethan', 'Liam', 'Lucas', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3622.8,3622.8
+Alice,John,"('Ella', 'James', 'Liam', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3616.9,3616.9
+Alice,John,"('Ethan', 'James', 'Liam', 'Mason', 'Noah', 'Olivia')",6,1,1,0,0,1,3615.1,3615.1
+Alice,John,"('Ella', 'Ethan', 'Liam', 'Mason', 'Noah', 'Olivia')",6,1,1,0,0,1,3612.3,3612.3
+Alice,John,"('Ethan', 'Liam', 'Mason', 'Mia', 'Olivia', 'Sophia')",6,1,1,0,0,1,3610.2,3610.2
+Alice,John,"('Ethan', 'Liam', 'Mason', 'Noah', 'Olivia', 'Sophia')",6,1,1,0,0,1,3590.9,3590.9
+Alice,John,"('Ella', 'Ethan', 'James', 'Liam', 'Mason', 'Olivia')",6,1,1,0,0,1,3587.3,3587.3
+Alice,John,"('Ethan', 'James', 'Liam', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3565.9,3565.9
+Alice,John,"('Ella', 'Ethan', 'Liam', 'Mason', 'Olivia', 'Sophia')",6,1,1,0,0,1,3563.1,3563.1

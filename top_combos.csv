@@ -1,0 +1,26 @@
+host,manager,server_team,dow,event_day,rain,meal_flag,predicted_sales
+David,Sarah,"('Ethan', 'Isabella', 'Mason', 'Noah', 'Olivia', 'Sophia')",1,0,0,1,7623.25
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Noah', 'Olivia', 'Sophia')",1,0,0,1,7597.25
+David,Sarah,"('Ethan', 'Isabella', 'Liam', 'Noah', 'Olivia', 'Sophia')",1,0,0,1,7595.25
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Noah', 'Olivia', 'Sophia')",1,0,0,1,7589.75
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Mason', 'Noah', 'Olivia')",1,0,0,1,7586.75
+David,Sarah,"('Ethan', 'Isabella', 'Liam', 'Mason', 'Noah', 'Olivia')",1,0,0,1,7585.0
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Mason', 'Noah', 'Olivia')",1,0,0,1,7579.25
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Mason', 'Olivia', 'Sophia')",1,0,0,1,7571.5
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Mason', 'Olivia', 'Sophia')",1,0,0,1,7564.0
+David,Sarah,"('Ethan', 'Isabella', 'Liam', 'Mason', 'Olivia', 'Sophia')",1,0,0,1,7563.5
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Liam', 'Noah', 'Olivia')",1,0,0,1,7559.5
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'James', 'Noah', 'Olivia')",1,0,0,1,7556.25
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Liam', 'Noah', 'Olivia')",1,0,0,1,7555.0
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'James', 'Olivia', 'Sophia')",1,0,0,1,7541.0
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Liam', 'Olivia', 'Sophia')",1,0,0,1,7538.0
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Liam', 'Olivia', 'Sophia')",1,0,0,1,7533.5
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'James', 'Mason', 'Olivia')",1,0,0,1,7530.5
+David,Sarah,"('Ethan', 'Isabella', 'Lucas', 'Noah', 'Olivia', 'Sophia')",1,0,0,1,7528.75
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Liam', 'Mason', 'Olivia')",1,0,0,1,7527.75
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Liam', 'Mason', 'Olivia')",1,0,0,1,7523.25
+David,Sarah,"('Ethan', 'Isabella', 'James', 'Mason', 'Noah', 'Sophia')",1,0,0,1,7519.25
+David,Sarah,"('Ethan', 'Isabella', 'Lucas', 'Mason', 'Noah', 'Olivia')",1,0,0,1,7516.25
+David,Sarah,"('Emma', 'Ethan', 'Isabella', 'Mason', 'Noah', 'Sophia')",1,0,0,1,7513.75
+David,Sarah,"('Ethan', 'Isabella', 'Liam', 'Mason', 'Noah', 'Sophia')",1,0,0,1,7508.25
+David,Sarah,"('Ella', 'Ethan', 'Isabella', 'Noah', 'Olivia', 'Sophia')",1,0,0,1,7506.5

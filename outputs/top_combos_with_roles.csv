@@ -1,0 +1,151 @@
+host,manager,dow,event_day,rain,dishwasher_down,low_inventory,meal,predicted_sales,server,server_marginal,assigned_role
+David,Sarah,6,1,1,0,0,Dinner,5035.6,Emma,235.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,5035.6,Isabella,223.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,5035.6,Lucas,169.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5035.6,Mia,151.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5035.6,Noah,130.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5035.6,James,122.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5018.4,Emma,235.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,5018.4,Isabella,221.9,Closer
+David,Sarah,6,1,1,0,0,Dinner,5018.4,Lucas,169.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5018.4,Mia,151.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5018.4,Noah,130.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5018.4,Ella,104.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5013.2,Emma,325.9,Closer
+David,Sarah,6,1,1,0,0,Dinner,5013.2,Isabella,310.2,Closer
+David,Sarah,6,1,1,0,0,Dinner,5013.2,Lucas,258.2,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5013.2,Mia,240.2,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5013.2,Noah,219.1,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5013.2,Sophia,187.9,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5009.6,Emma,105.0,Closer
+David,Sarah,6,1,1,0,0,Dinner,5009.6,Isabella,92.9,Closer
+David,Sarah,6,1,1,0,0,Dinner,5009.6,Lucas,39.1,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5009.6,Mia,19.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5009.6,James,-8.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5009.6,Ella,-26.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5004.4,Emma,239.4,Closer
+David,Sarah,6,1,1,0,0,Dinner,5004.4,Isabella,227.3,Closer
+David,Sarah,6,1,1,0,0,Dinner,5004.4,Lucas,171.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5004.4,Mia,153.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,5004.4,James,123.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,5004.4,Sophia,99.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4990.3,Emma,85.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4990.3,Isabella,73.6,Closer
+David,Sarah,6,1,1,0,0,Dinner,4990.3,Lucas,19.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4990.3,Noah,-19.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4990.3,James,-28.1,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4990.3,Ella,-45.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4987.2,Emma,239.4,Closer
+David,Sarah,6,1,1,0,0,Dinner,4987.2,Isabella,225.5,Closer
+David,Sarah,6,1,1,0,0,Dinner,4987.2,Lucas,171.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4987.2,Mia,153.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4987.2,Ella,106.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4987.2,Sophia,99.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4985.4,Emma,235.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,4985.4,Isabella,221.9,Closer
+David,Sarah,6,1,1,0,0,Dinner,4985.4,Lucas,171.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4985.4,Mia,151.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4985.4,Noah,130.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4985.4,Ethan,71.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4985.1,Emma,241.2,Closer
+David,Sarah,6,1,1,0,0,Dinner,4985.1,Isabella,227.3,Closer
+David,Sarah,6,1,1,0,0,Dinner,4985.1,Lucas,173.5,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4985.1,Noah,134.4,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4985.1,James,125.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4985.1,Sophia,101.4,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4976.6,Emma,105.0,Closer
+David,Sarah,6,1,1,0,0,Dinner,4976.6,Isabella,92.9,Closer
+David,Sarah,6,1,1,0,0,Dinner,4976.6,Lucas,40.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4976.6,Mia,19.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4976.6,James,-8.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4976.6,Ethan,-59.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4970.5,Emma,235.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,4970.5,Isabella,223.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4970.5,Mia,151.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4970.5,Noah,130.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4970.5,James,122.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4970.5,Ella,104.8,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4967.9,Emma,241.2,Closer
+David,Sarah,6,1,1,0,0,Dinner,4967.9,Isabella,225.5,Closer
+David,Sarah,6,1,1,0,0,Dinner,4967.9,Lucas,173.5,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4967.9,Noah,134.4,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4967.9,Ella,108.4,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4967.9,Sophia,101.4,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4965.3,Emma,67.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4965.3,Isabella,53.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,4965.3,Mia,-19.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4965.3,Noah,-39.1,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4965.3,James,-47.9,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4965.3,Sophia,-70.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4959.4,Emma,105.0,Closer
+David,Sarah,6,1,1,0,0,Dinner,4959.4,Isabella,91.1,Closer
+David,Sarah,6,1,1,0,0,Dinner,4959.4,Lucas,40.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4959.4,Mia,19.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4959.4,Ella,-26.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4959.4,Ethan,-59.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4959.1,Emma,87.5,Closer
+David,Sarah,6,1,1,0,0,Dinner,4959.1,Isabella,75.4,Closer
+David,Sarah,6,1,1,0,0,Dinner,4959.1,Lucas,19.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4959.1,James,-28.1,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4959.1,Ella,-45.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4959.1,Sophia,-50.5,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4957.3,Emma,85.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4957.3,Isabella,73.6,Closer
+David,Sarah,6,1,1,0,0,Dinner,4957.3,Lucas,21.6,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4957.3,Noah,-19.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4957.3,James,-28.1,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4957.3,Ethan,-78.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4954.2,Emma,239.4,Closer
+David,Sarah,6,1,1,0,0,Dinner,4954.2,Isabella,225.5,Closer
+David,Sarah,6,1,1,0,0,Dinner,4954.2,Lucas,173.5,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4954.2,Mia,153.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4954.2,Sophia,99.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4954.2,Ethan,73.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4948.1,Emma,67.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4948.1,Isabella,52.0,Closer
+David,Sarah,6,1,1,0,0,Dinner,4948.1,Mia,-19.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4948.1,Noah,-39.1,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4948.1,Ella,-65.1,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4948.1,Sophia,-70.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4940.1,Emma,85.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4940.1,Isabella,71.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,4940.1,Lucas,21.6,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4940.1,Noah,-19.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4940.1,Ella,-45.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4940.1,Ethan,-78.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4939.3,Emma,239.4,Closer
+David,Sarah,6,1,1,0,0,Dinner,4939.3,Isabella,227.3,Closer
+David,Sarah,6,1,1,0,0,Dinner,4939.3,Mia,153.7,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4939.3,James,123.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4939.3,Ella,106.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4939.3,Sophia,99.6,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4935.7,Emma,235.8,Closer
+David,Sarah,6,1,1,0,0,Dinner,4935.7,Isabella,223.7,Closer
+David,Sarah,6,1,1,0,0,Dinner,4935.7,Mia,151.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4935.7,Noah,130.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4935.7,James,122.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4935.7,Ethan,70.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4934.9,Emma,241.2,Closer
+David,Sarah,6,1,1,0,0,Dinner,4934.9,Isabella,225.5,Closer
+David,Sarah,6,1,1,0,0,Dinner,4934.9,Lucas,175.3,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4934.9,Noah,134.4,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4934.9,Sophia,101.4,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4934.9,Ethan,75.4,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4931.3,Emma,105.0,Closer
+David,Sarah,6,1,1,0,0,Dinner,4931.3,Isabella,92.9,Closer
+David,Sarah,6,1,1,0,0,Dinner,4931.3,Lucas,40.9,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4931.3,James,-8.8,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4931.3,Ella,-26.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4931.3,Ethan,-59.0,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4926.1,Emma,87.5,Closer
+David,Sarah,6,1,1,0,0,Dinner,4926.1,Isabella,75.4,Closer
+David,Sarah,6,1,1,0,0,Dinner,4926.1,Lucas,21.6,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4926.1,James,-28.1,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4926.1,Sophia,-50.5,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4926.1,Ethan,-78.3,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4920.0,Emma,241.2,Closer
+David,Sarah,6,1,1,0,0,Dinner,4920.0,Isabella,227.3,Closer
+David,Sarah,6,1,1,0,0,Dinner,4920.0,Noah,134.4,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4920.0,James,125.6,Mid Shift
+David,Sarah,6,1,1,0,0,Dinner,4920.0,Ella,108.4,First Cut
+David,Sarah,6,1,1,0,0,Dinner,4920.0,Sophia,101.4,First Cut
